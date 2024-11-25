@@ -6,11 +6,10 @@ Gem::Specification.new do |spec|
   spec.name = "ps_string_enhancer"
   spec.version = PsStringEnhancer::VERSION
   spec.authors = ["Borna"]
-  spec.email = ["mohammad.pourhossein@friendsurance.de"]
+  spec.email = ["bornaeon@gmail.com"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description = "TODO: Write a longer description or delete this line."
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.summary = "A temporary gem to enhance string functionalities"
+  spec.homepage = "https://github.com/bornaeon/ps_string_enhancer"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.0.0"
 

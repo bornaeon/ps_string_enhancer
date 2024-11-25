@@ -1,8 +1,7 @@
 # PsStringEnhancer
 
-TODO: Delete this and the text below, and describe your gem
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ps_string_enhancer`. To experiment with that code, run `bin/console` for an interactive prompt.
+This is a temporary repository for an StringEnhancer functionality.
+This repo is only for learning purposes and serves no other purpose.
 
 ## Installation
 
@@ -22,7 +21,7 @@ gem install UPDATE_WITH_YOUR_GEM_NAME_IMMEDIATELY_AFTER_RELEASE_TO_RUBYGEMS_ORG
 
 ## Usage
 
-TODO: Write usage instructions here
+nothing to be added here yet
 
 ## Development
 

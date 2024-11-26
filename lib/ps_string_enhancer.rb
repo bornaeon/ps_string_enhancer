@@ -13,4 +13,8 @@ module PsStringEnhancer
     changed = word.downcase.gsub(/\W/, "")
     changed == changed.reverse
   end
+
+  def self.titleise(word)
+    word.split.map(&:capitalize).join(' ')
+  end
 end

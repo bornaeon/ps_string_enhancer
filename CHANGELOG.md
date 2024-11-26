@@ -1,5 +1,11 @@
 ## [Unreleased]
 
+## [0.3.0] - 2025-11-26
+
+### Added
+
+- 'Titleise' method to capitalise each word of an string for a title-like formatting'
+
 ## [0.2.0] - 2025-11-26
 
 ### Added

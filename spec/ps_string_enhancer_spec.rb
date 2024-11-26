@@ -30,5 +30,11 @@ RSpec.describe PsStringEnhancer do
       end
     end
 
+    context "#titleise" do
+      it "capitalises first letters of each word in a string" do
+        expect(PsStringEnhancer.titleise("Hello, world!")).to eq("Hello, World!")
+      end
+    end
+
   end
 end

@@ -4,5 +4,12 @@ require_relative "ps_string_enhancer/version"
 
 module PsStringEnhancer
   class Error < StandardError; end
-  # Your code goes here...
+  
+  def self.hello_world
+    'Hello, World!'
+  end
+
+  def self.word_count(word)
+    word.split.length
+  end
 end

@@ -19,5 +19,16 @@ RSpec.describe PsStringEnhancer do
         expect(PsStringEnhancer.word_count("")).to eq(0)
       end
     end
+
+    context "#polindrome" do
+      it "returns true for a polindrome string" do
+        expect(PsStringEnhancer.polindrome?("Tenet")).to be(true)
+      end
+
+      it "returns false for a non polindrome string" do
+        expect(PsStringEnhancer.polindrome?("inception")).to be(false)
+      end
+    end
+
   end
 end

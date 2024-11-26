@@ -1,5 +1,6 @@
 # frozen_string_literal: true
-
+require "simplecov"
+SimpleCov.start
 require "ps_string_enhancer"
 
 RSpec.configure do |config|
